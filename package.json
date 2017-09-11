@@ -1,0 +1,30 @@
+{
+  "name": "chatbot-ai",
+  "version": "1.0.0",
+  "description": "Simple AI chatbot",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalbertsr/AI-Chatbot.git"
+  },
+  "keywords": [
+    "AI",
+    "chatbot"
+  ],
+  "author": "jalbertsr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalbertsr/AI-Chatbot/issues"
+  },
+  "homepage": "https://github.com/jalbertsr/AI-Chatbot#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  }
+}
