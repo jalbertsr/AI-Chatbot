@@ -8,7 +8,7 @@ body {
   margin: 0;
   font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   font-weight: 300;
-  background: #f7f7f7 url(../images/geometry.png) 0 0 no-repeat;
+  background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
   background-size: cover;
   color: #333;
 }
@@ -55,7 +55,7 @@ button {
   margin: 4em auto 3em;
   text-align: center;
   color: #fff;
-  background: linear-gradient(180deg, #39C2C9 0%, #3FC8C9 80%, #3FC8C9 100%);
+  background-image: linear-gradient(-225deg, #7DE2FC 0%, #B9B6E5 100%);
   box-shadow: 2px 5px 30px rgba(63, 200, 201, .4);
 
   will-change: transform, filter;
